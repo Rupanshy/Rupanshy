@@ -31,8 +31,6 @@
 | 🧩 Project | Description | Stack |
 |:--|:--|:--|
 | [🗂️ Task Manager API](https://github.com/Rupanshy/task-manager-api) | JWT-Auth + RBAC task management backend (Jira-style) | Node.js · TypeScript · MongoDB |
-| [💰 AWS Lambda Budget Tracker](https://github.com/Rupanshy/aws-lambda-budget-tracker) | Serverless budget alert system using Lambda + DynamoDB + Cognito | AWS · Node.js |
-| [🔗 Solution Registry Service](#) | Blockchain microservice for solution metadata | Node.js · Express · ESM |
 
 ---
 
