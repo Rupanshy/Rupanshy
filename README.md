@@ -36,12 +36,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Readme Stats (cache-busted + include all public commits) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupanshy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=5" />
-
-  <!-- Streak Stats (cache-busted) -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=Rupanshy&theme=tokyonight&hide_border=true&v=5" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupanshy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&v=6" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Rupanshy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=6" />
 </p>
+
 
 ---
 
