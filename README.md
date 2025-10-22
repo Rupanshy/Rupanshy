@@ -36,8 +36,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupanshy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Rupanshy&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Readme Stats (cache-busted + include all public commits) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupanshy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=5" />
+
+  <!-- Streak Stats (cache-busted) -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=Rupanshy&theme=tokyonight&hide_border=true&v=5" />
 </p>
 
 ---
