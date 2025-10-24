@@ -21,9 +21,17 @@
 ---
 
 ### ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,aws,docker,githubactions,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,aws,docker,githubactions,linux,git,bash,vscode&theme=dark" alt="Tech stack" />
 </p>
+
+<p align="center">
+  <b>Backend:</b> Node.js (ESM), TypeScript, Express, AWS Lambda, API Gateway, DynamoDB, MongoDB <br/>
+  <b>DevOps:</b> Docker, GitHub Actions, AWS SAM, CI/CD Pipelines <br/>
+  <b>Tools:</b> Linux, Git, VS Code, Postman, Swagger, ESLint, Prettier
+</p>
+
 
 ---
 
